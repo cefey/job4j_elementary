@@ -13,7 +13,7 @@ public class SwitchArrayTest {
         int[] expected = {4, 2, 3, 1};
         Assert.assertArrayEquals(expected, result);
     }
- //добавленные тесты
+    //добавленные тесты
 
     @Test
     public void whenSwap0to5() {
